@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "api-github-project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Access to Github API from an user",
   "main": "index.js",
   "scripts": {
