@@ -1,0 +1,33 @@
+{
+  "type": "module",
+  "name": "api-github-project",
+  "version": "1.0.0",
+  "description": "Access to Github API from an user",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xevurah/Api-Github-Project.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "github"
+  ],
+  "author": "Eduardo Ali Garcia <xevurah@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xevurah/Api-Github-Project/issues"
+  },
+  "homepage": "https://github.com/Xevurah/Api-Github-Project#readme",
+  "dependencies": {
+    "axios": "^1.6.8"
+  },
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.4.0",
+    "nock": "^13.5.4"
+  }
+}
