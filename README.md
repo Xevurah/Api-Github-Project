@@ -13,7 +13,7 @@ npm install api-github-project
 ### Usage
 
 ```
-const api = await import('./index.js')
+const api = await import('api-github-project')
 
 api.obtainUserData('Xevurah')
     .then(
